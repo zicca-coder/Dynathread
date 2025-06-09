@@ -11,7 +11,7 @@ import java.util.concurrent.*;
 import java.util.concurrent.atomic.AtomicLong;
 
 /**
- * 增强的动态、报警和受监控的线程池 Dynathread
+ * 增强的动态、报警和受监控的线程池 DynaThreadExecutor
  */
 @Slf4j
 public class DynaThreadExecutor extends ThreadPoolExecutor {
